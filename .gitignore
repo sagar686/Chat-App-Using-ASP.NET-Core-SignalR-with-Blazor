@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NetCoreBlazorApp/NetCoreBlazorApp/bin/Debug/net5.0
+/NetCoreBlazorApp/NetCoreBlazorApp/obj
+/.vs
+/NetCoreBlazorApp/.vs/NetCoreBlazorApp
